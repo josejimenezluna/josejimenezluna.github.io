@@ -78,10 +78,10 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Authors
 author:
   name             : "José Jiménez-Luna"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Postdoctoral fellow at ETH Zürich"
   location         : "Zürich, Switzerland"
   employer         :
