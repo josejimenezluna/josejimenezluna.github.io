@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "José Jiménez-Luna"
 title_separator          : "-"
 name                     : &name "José Jiménez-Luna"
-description              : &description "Postdoctoral fellow at ETH Zürich"
+description              : &description "Senior researcher @ MSR Cambridge"
 url                      : https://josejimenezluna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "josejimenezluna/josejimenezluna.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "José Jiménez-Luna"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral fellow at ETH Zürich"
-  location         : "Zürich, Switzerland"
+  bio              : "Senior researcher @ MSR Cambridge"
+  location         : "Cambridge, UK"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=dhKW3woAAAAJ&hl=en"
-  email            : "jose.jimenez@rethink.ethz.ch"
+  email            : "jjimenezluna@microsoft.com"
   researchgate     : "https://www.researchgate.net/profile/Jose_Jimenez84"
   uri              :
   bitbucket        :
